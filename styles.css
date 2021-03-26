@@ -1,0 +1,14 @@
+body {
+  background-color: #FFBE1D;
+  display:flex;
+  justify-content: center;
+}
+
+p {
+  align-items: center;
+  color: #FFF7C3;
+  font-size: 16vw;
+  font-family: swear-display-cilati, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
